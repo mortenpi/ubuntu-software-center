@@ -1,0 +1,12 @@
+build/
+softwarecenter/version.py
+tests/.coverage
+tests/coverage_html
+tests/coverage_summary
+tests/output
+help/*
+data/xapian/*
+.backup
+
+*.pot
+*.pyc
